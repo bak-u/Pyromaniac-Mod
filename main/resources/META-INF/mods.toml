@@ -1,0 +1,30 @@
+modLoader="javafml"
+loaderVersion="[39,)"
+license="GNU General Public License v3.0"
+
+[[mods]] #mandatory
+	modId="pyromaniac"
+	version="0.9"
+	displayName="Pyromaniac Mod"
+	displayURL="https://github.com/bak-u/Pyromaniac-Mod"
+	logoFile="pyro.png"
+	authors="bak-u"
+description='''
+Wanna start lots of fires at the same time?
+Welcome, this is your mod :D
+'''
+
+[[dependencies.pyromaniac]]
+    modId="forge"
+    mandatory=true
+    versionRange="[39,)"
+    ordering="NONE"
+    side="BOTH"
+
+
+[[dependencies.pyromaniac]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.18.1,1.19)"
+    ordering="NONE"
+    side="BOTH"
