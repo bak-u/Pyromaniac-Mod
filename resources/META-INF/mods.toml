@@ -1,5 +1,5 @@
 modLoader="javafml"
-loaderVersion="[39,)"
+loaderVersion="[38,)"
 license="GNU General Public License v3.0"
 
 [[mods]] #mandatory
@@ -17,7 +17,7 @@ Welcome, this is your mod :D
 [[dependencies.pyromaniac]]
     modId="forge"
     mandatory=true
-    versionRange="[39,)"
+    versionRange="[38,)"
     ordering="NONE"
     side="BOTH"
 
@@ -25,6 +25,6 @@ Welcome, this is your mod :D
 [[dependencies.pyromaniac]]
     modId="minecraft"
     mandatory=true
-    versionRange="[1.18.1,1.19)"
+    versionRange="[1.18,1.19)"
     ordering="NONE"
     side="BOTH"
