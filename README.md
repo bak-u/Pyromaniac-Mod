@@ -1,4 +1,6 @@
 # Pyromaniac Mod
+
+![Pyromaniac Mod logo](./resources/pyro.png)
  
 Hi there! I'm bak-u and this is my first Minecraft Forge mod. So, be kind, I'm a novice :D.
 
