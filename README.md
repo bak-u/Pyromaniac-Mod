@@ -12,6 +12,6 @@ Welcome, this is your mod :D
 
 ## Mod commands
 
-- **/pyro start**	 - Starts the targeting function. Just right-cick the blocks you want to set on fire.
+- **/pyro start**	 - Starts the targeting function. Just right-click the blocks you want to set on fire.
 - **/pyro stop**	 - Stop targeting. You're almost done.
 - **/pyro fire**	 - Fires all the targeted blocks at the same time. **For your security, yo must call this command twice.**
